@@ -1,0 +1,17 @@
+/*
+  Empty Header Template
+
+  Be sure to populate or remove the header guard!
+*/
+#include "vector2d.h"
+
+#ifndef PATTERN_SPACE__INCLUSION_GUARD
+#define PATTERN_SPACE__INCLUSION_GUARD
+
+namespace PatternSpace {
+    
+    
+    
+} // end namespace PatternSpace
+
+#endif  // PATTERN_SPACE__INCLUSION_GUARD

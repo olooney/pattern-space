@@ -1,0 +1,11 @@
+This is a small C++ "game" I wrote in C++ when I was first learning design 
+patterns. I've come a long way since then but I think it holds up pretty
+well; in any case it's largest C++ program I've written that I unambiguously
+own the copyrights to. It does pretty well with interface segregation,
+decorator chains, etc., but if I was still working on it I would clean up the 
+loading/initialization process and decouple the reusable engine classes from 
+the specific classes and data of the game.
+
+It compiles on Linux if you include SDL and SDL_gfx
+and probably still compiles on Windows, although I haven't tried it there
+recently.
